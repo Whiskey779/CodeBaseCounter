@@ -40,3 +40,9 @@ bin/
 
 # debug information files
 *.dwo
+
+# ninja
+
+*.ninja
+*.ninja_log
+*ninja_deps
